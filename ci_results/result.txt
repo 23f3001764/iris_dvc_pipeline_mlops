@@ -17,4 +17,4 @@ tests/test_validation_and_evaluation.py::test_model_prediction_shape
     warnings.warn(
 
 -- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
-========================= 5 passed, 1 warning in 1.25s =========================
+========================= 5 passed, 1 warning in 1.11s =========================
